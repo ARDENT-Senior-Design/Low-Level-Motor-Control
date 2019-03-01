@@ -1,6 +1,6 @@
 clear;clc;close all;
 format compact, format short
-%% Motor Constants
+%% Motor Constants - run this section then the simulation simulinks
 J = .306      %rotor inertia [kg*m^2]
 L = .625E-3   %Terminal Inductance [H]
 R = .522      %Terminal Resistance [ohms]
